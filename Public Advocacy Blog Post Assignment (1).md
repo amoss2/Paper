@@ -2,13 +2,12 @@
 
 By Ashley Moss | June 18, 2021
 
-![](image_1.jpg){width="5.770833333333333in"
-height="2.9791666666666665in"}
+![](image_1.jpg)
 
 Weigh-in time at NBC’s The Office
 
-In 2019 more than 80% of large employers offered a [*workplace wellness
-program*](https://www.researchgate.net/publication/323538785_Health_and_Big_Data_An_Ethical_Framework_for_Health_Information_Collection_by_Corporate_Wellness_Programs)
+In 2019 more than 80% of large employers offered a [workplace wellness
+program](https://www.researchgate.net/publication/323538785_Health_and_Big_Data_An_Ethical_Framework_for_Health_Information_Collection_by_Corporate_Wellness_Programs)
 as healthcare trends in America turn toward disease prevention. Some
 wellness programs focus on behavioral changes like smoking cessation,
 weight loss, or stress management. Participants might complete a health
@@ -19,8 +18,8 @@ and employees, this article takes a closer look at the potential
 downsides of privacy compromise, unfairness, and questionable
 effectiveness.
 
-Laws and regulations that normally protect your health data [*may not
-apply*](https://www.hhs.gov/hipaa/for-professionals/privacy/workplace-wellness/index.html)
+Laws and regulations that normally protect your health data [may not
+apply](https://www.hhs.gov/hipaa/for-professionals/privacy/workplace-wellness/index.html)
 to your workplace wellness program. The federal government’s HIPAA laws
 cover doctor’s offices and insurance companies who use healthcare data.
 These laws limit information sharing to protect your privacy and require
@@ -42,27 +41,27 @@ There is some concern that employers have a hidden agenda: Wellness
 programs shift the burden of medical costs away from the employer and
 toward unhealthy or non-participating employees.
 
-Wellness programs may be unfair to certain groups of people. [*Research
-shows*](https://www.kff.org/private-insurance/issue-brief/trends-in-workplace-wellness-programs-and-evolving-federal-standards/)
+Wellness programs may be unfair to certain groups of people. [Research
+shows](https://www.kff.org/private-insurance/issue-brief/trends-in-workplace-wellness-programs-and-evolving-federal-standards/)
 that programs penalize lower wage workers more often, contributing to a
 “poor get poorer” cycle of poverty. Wellness programs may also overlook
 entire categories of people who have a good reason not to join, such as
 people with disabilities. In one case, a woman with a double mastectomy
-faced possible fines for [*missing
-mammograms*](http://www.thenewjournalatyale.com/2020/02/worn-down-by-wellness/)
+faced possible fines for [missing
+mammograms](http://www.thenewjournalatyale.com/2020/02/worn-down-by-wellness/)
 until she provided multiple explanations to her employer’s wellness
 program.
 
 Experts question the effectiveness of workplace wellness programs, since
-evidence shows little impact to key outcomes. Two [*randomized
-studies*](https://www.kff.org/private-insurance/issue-brief/trends-in-workplace-wellness-programs-and-evolving-federal-standards/)
+evidence shows little impact to key outcomes. Two [randomized
+studies](https://www.kff.org/private-insurance/issue-brief/trends-in-workplace-wellness-programs-and-evolving-federal-standards/)
 followed participants for 12+ months and found no improvement to medical
 spending or health outcomes. Wellness programs do not require physician
 oversight, so the interventions may not be supported by scientific
 evidence. For example, Body Mass Index (BMI) has fallen out of favor in
 the medical community but persists in wellness programs.
 
-![](image_2.jpg){width="6.5in" height="3.6527777777777777in"}
+![](image_2.jpg)
 
 Wellness programs may focus on reducing sedentary time or tracking
 steps.
@@ -95,9 +94,3 @@ References
 -   [*https://www.hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting/index.html*](https://www.hhs.gov/hipaa/for-professionals/breach-notification/breach-reporting/index.html)
 
 -   [*https://i.pinimg.com/originals/24/43/ba/2443ba5aaac0fface135795ca08d3c76.jpg*](https://i.pinimg.com/originals/24/43/ba/2443ba5aaac0fface135795ca08d3c76.jpg)
-
-    -   -   the EEOC regulations specify that a wellness program is not
-        > reasonably designed if it exists mainly to shift costs from
-        > the employer to targeted employees based on their health
-        > \[Kaiser\]
-
