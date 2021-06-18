@@ -2,7 +2,7 @@
 
 By Ashley Moss | June 18, 2021
 
-![](media/image1.png){width="5.770833333333333in"
+![](image_1.jpg){width="5.770833333333333in"
 height="2.9791666666666665in"}
 
 Weigh-in time at NBC’s The Office
@@ -62,7 +62,7 @@ oversight, so the interventions may not be supported by scientific
 evidence. For example, Body Mass Index (BMI) has fallen out of favor in
 the medical community but persists in wellness programs.
 
-![](media/image2.png){width="6.5in" height="3.6527777777777777in"}
+![](image_2.jpg){width="6.5in" height="3.6527777777777777in"}
 
 Wellness programs may focus on reducing sedentary time or tracking
 steps.
